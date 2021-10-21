@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\БГУИР\Третий курс\newRepos\OSISP_LabTwo\OSISP_LabTwo\Source.cpp(66,27): warning C4018: >: несоответствие типов со знаком и без знака
+D:\БГУИР\Третий курс\newRepos\OSISP_LabTwo\OSISP_LabTwo\Source.cpp(231,24): warning C4838: Преобразование из "size_t" в "LONG" требует сужающего преобразования.
+D:\БГУИР\Третий курс\newRepos\OSISP_LabTwo\OSISP_LabTwo\Source.cpp(231,43): warning C4838: Преобразование из "size_t" в "LONG" требует сужающего преобразования.
+  OSISP_LabTwo.vcxproj -> D:\БГУИР\Третий курс\newRepos\OSISP_LabTwo\Debug\OSISP_LabTwo.exe
